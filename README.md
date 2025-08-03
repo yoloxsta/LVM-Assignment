@@ -5,6 +5,9 @@
 - Performing consistent backups by taking snapshots of the logical volumes.
 - Using the volume management approach, the administrator is not required to allocate all disk storage space at initial setup. Some can be held in reserve for later allocation.
 
+### DIAGRAM FOR DEEPER KNOWLEDGE:
+
+![alt text](1_L2k2Z8Pi6aovhmV84AaRcg.webp)
 
 ```
 
